@@ -1,0 +1,15 @@
+/*atributos del cuerpo color y fuente*/
+body {
+    color: #0000ff;
+    font-family: verdana;
+}
+
+/*atributos de texto em*/
+em {
+    color: #008800;
+}
+
+/*atributos de texto del parrafo*/
+p {
+    color: #999999;
+}

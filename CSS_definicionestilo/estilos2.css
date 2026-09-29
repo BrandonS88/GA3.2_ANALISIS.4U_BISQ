@@ -1,0 +1,4 @@
+/* atributos de texto em dentro de h1 ubicado dentro de un div */
+div h1 em {
+    color: #ff0000;
+}

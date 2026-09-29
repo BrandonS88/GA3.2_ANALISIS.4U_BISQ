@@ -1,0 +1,24 @@
+/*propiedades para h1*/
+h1 {
+    /*color, alineado, decoracion*/
+    color: #ff0000;
+    text-align: left;
+    text-decoration: underline;
+}
+
+/*propiedades para h2*/
+h2 {
+    /*color, alineado, decoracion*/
+    color: #dd0000;
+    text-align: center;
+    text-decoration: underline;
+}
+
+/*propiedades para h3*/
+h3 {
+    /*color, alineado, decoracion*/
+    color: #aa0000;
+    text-align: right;
+    text-decoration: underline;
+
+}

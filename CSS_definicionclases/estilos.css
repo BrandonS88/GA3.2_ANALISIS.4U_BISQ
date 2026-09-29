@@ -1,0 +1,11 @@
+/*atributos del cuerpo fondo*/
+body {
+    background-color: #eeeeee;
+}
+
+/*atributos de la clase resaltado color, fondo y estilo de fuente*/
+.resaltado {
+    color: #000000;
+    background-color: #ffff00;
+    font-style: italic;
+}

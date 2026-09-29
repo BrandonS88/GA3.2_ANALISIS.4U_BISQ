@@ -1,0 +1,33 @@
+/*atributos del cuerpo fondo y fuente*/
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+
+/*atributos del contenedor principal ancho y centrado*/
+#contenedor {
+    width: 900px;
+    margin: 0 auto;
+}
+
+/*atributos de la cabecera fondo, color de texto, relleno y alineación*/
+#cabecera {
+    background-color: #003366;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+/*atributos del contenido fondo y relleno*/
+#contenido {
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+/*atributos del pie de página fondo, color de texto, alineación y relleno*/
+#pie {
+    background-color: #333333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
